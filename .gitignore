@@ -2,3 +2,4 @@ aws_wand.egg-info/
 build/
 dist/
 venv/
+.idea
